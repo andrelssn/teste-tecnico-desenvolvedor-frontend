@@ -1,0 +1,13 @@
+@font-face {
+  	font-family: 'inter';
+  	src: local('inter'), url('./Fonts/Inter_18pt-Medium.ttf') format('truetype');
+}
+
+* {
+	font-family: 'inter', sans-serif !important;
+}
+
+
+:root {
+  --green: #1FB841;
+}
