@@ -1,12 +1,43 @@
-# React + Vite
+# 📊 Teste Técnico – Tela de Planos Contábeis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma réplica em React + Material UI de uma tela de planos contábeis desenvolvida no Figma.
+O objetivo foi recriar fielmente o layout com foco em componentização, responsividade e boas práticas de UI/UX.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite (para build rápido)
+- Material UI (MUI) (componentes prontos e estilização)
+- React Icons MUI
 
-## Expanding the ESLint configuration
+## 💻 Como rodar o projeto localmente
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Passos
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-projeto.git
+cd nome-do-projeto
+```
+
+2. Instale as dependências:
+
+```bash
+npm install
+# ou
+yarn
+```
+
+3. Inicie o servidor de desenvolvimento:
+
+```bash
+npm run dev
+# ou
+yarn dev
+```
+
+4. Abra no navegador:
+
+```bash
+http://localhost:5173
+```
